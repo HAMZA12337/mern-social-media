@@ -1,0 +1,30 @@
+.hamza{
+
+  
+  height: 2600px;;
+  margin: 0 auto;
+  position: relative;
+
+    
+    background-image: url('./assets/5.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.profil1{
+    background-image: url('./assets/4.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+}
+.modal{
+
+    height: 2000px;
+    margin: 0 auto;
+    position: relative;
+
+}
